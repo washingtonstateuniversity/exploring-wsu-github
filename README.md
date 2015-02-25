@@ -1,2 +1,4 @@
-# exploring-wsu-github
+exploring-wsu-github
+====================
+
 Exploring the WSU GitHub
